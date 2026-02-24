@@ -1,0 +1,3 @@
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del. matkul pemrograman prosedural menggunakan bahasa C dan buat sederhana
+lebih sederhana
+Tambahkan total keseluruhan transaksi

@@ -1,0 +1,13 @@
+1. Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. 
+Input:
+1.	Jumlah total data (N).
+2.	Deret nilai (n1, n2, …, n).
+3.	Kode kelompok siswa
+
+**Tugas**
+Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta jawab berdasarkan matkul pemrograman Prosedural menggunakan bahasa C
+
+melalui gambar kan ada gambar angka 75 65 80 70
+nah itu dia pola nya -10 , +15, -10, sampai seterusnya
+
+kenapa total nilai kelompok 3 = 230? bukan 290?
